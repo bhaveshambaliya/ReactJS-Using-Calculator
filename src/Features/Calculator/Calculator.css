@@ -1,0 +1,13 @@
+.Input-field {
+  display: flex;
+  justify-content: center;
+  border-style: 2px solid black;
+  outline: none;
+}
+.Input-field ::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+.buttons {
+  margin-top: 10px;
+}
